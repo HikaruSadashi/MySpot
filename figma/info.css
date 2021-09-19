@@ -1,0 +1,304 @@
+/* Info */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FFFFFF;
+
+
+/* lion 1 */
+
+position: absolute;
+width: 375px;
+height: 812px;
+left: 0px;
+top: 0px;
+
+background: url(lion.png);
+
+
+/* Rectangle 9 */
+
+position: absolute;
+width: 354px;
+height: 71px;
+left: 11px;
+top: 47px;
+
+background: linear-gradient(294.79deg, #D481FF 15.48%, rgba(89, 71, 142, 0.69) 123.44%);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 340px;
+height: 48px;
+left: 18px;
+top: 57px;
+
+background: #F1F1F1;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Lions Arena */
+
+position: absolute;
+width: 81px;
+height: 22px;
+left: 70px;
+top: 71px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* MySpot Logo 3 */
+
+position: absolute;
+width: 260px;
+height: 195px;
+left: -807px;
+top: -609px;
+
+background: url(MySpot Logo.png);
+
+
+/* Pin 1 */
+
+position: absolute;
+width: 532px;
+height: 399px;
+left: -169px;
+top: 145px;
+
+background: url(Pin.png);
+
+
+/* Vector */
+
+position: absolute;
+left: 8.27%;
+right: 85.07%;
+top: 8.62%;
+bottom: 88.3%;
+
+background: rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 376px;
+height: 327px;
+left: 0px;
+top: 514px;
+
+background: linear-gradient(125.59deg, #59478E 12.4%, #D481FF 92.32%);
+border-radius: 30px;
+
+
+/* Rectangle 11 */
+
+position: absolute;
+width: 305px;
+height: 272px;
+left: 54px;
+top: 531px;
+
+background: #F1F1F1;
+border-radius: 10px;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.8%;
+right: 70.4%;
+top: 69.95%;
+bottom: 27.46%;
+
+background: #E5B2FF;
+
+
+/* Vector */
+
+position: absolute;
+left: 25.07%;
+right: 70.4%;
+top: 90.39%;
+bottom: 7.88%;
+
+background: #E5B2FF;
+
+
+/* 100 Rittenhouse Rd. Kitchener */
+
+position: absolute;
+width: 212px;
+height: 22px;
+left: 118px;
+top: 567px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* Days: N/A */
+
+position: absolute;
+width: 212px;
+height: 22px;
+left: 121px;
+top: 600px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* FREE FOR USE WHILE AT FACILITY */
+
+position: absolute;
+width: 207px;
+height: 44px;
+left: 121px;
+top: 731px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* 25 Current Spaces Available */
+
+position: absolute;
+width: 195px;
+height: 22px;
+left: 121px;
+top: 695px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25.07%;
+right: 70.4%;
+top: 85.84%;
+bottom: 11.7%;
+
+background: #E5B2FF;
+
+
+/* 63 Total Spaces Available */
+
+position: absolute;
+width: 195px;
+height: 22px;
+left: 121px;
+top: 662px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25.07%;
+right: 70.4%;
+top: 81.77%;
+bottom: 15.76%;
+
+background: #E5B2FF;
+
+
+/* Vector */
+
+position: absolute;
+left: 4.8%;
+right: 89.33%;
+top: 94.21%;
+bottom: 1.6%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.53%;
+right: 70.13%;
+top: 74.01%;
+bottom: 23.52%;
+
+background: #E5B2FF;
+
+
+/* Hours: N/A */
+
+position: absolute;
+width: 212px;
+height: 22px;
+left: 121px;
+top: 631px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 24.53%;
+right: 70.13%;
+top: 77.83%;
+bottom: 19.7%;
+
+background: #E5B2FF;
