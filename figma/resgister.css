@@ -1,0 +1,186 @@
+/* Register */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FFFFFF;
+
+
+/* MySpot */
+
+position: absolute;
+width: 226px;
+height: 112px;
+left: 114px;
+top: 132px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 50px;
+line-height: 74px;
+
+color: #E5B2FF;
+
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 340px;
+height: 48px;
+left: 17px;
+top: 295px;
+
+background: #F1F1F1;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 340px;
+height: 48px;
+left: 17px;
+top: 362px;
+
+background: #F1F1F1;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Mail */
+
+position: absolute;
+left: 7.47%;
+right: 85.87%;
+top: 38.18%;
+bottom: 59.51%;
+
+background: #FFFFFF;
+
+
+/* Key */
+
+position: absolute;
+left: 7.47%;
+right: 85.87%;
+top: 46.06%;
+bottom: 50.86%;
+
+background: #FFFFFF;
+
+
+/* MySpot Logo 1 */
+
+position: absolute;
+width: 189px;
+height: 142px;
+left: 0px;
+top: 57px;
+
+background: url(MySpot Logo.png);
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 340px;
+height: 45px;
+left: 17px;
+top: 461px;
+
+background: linear-gradient(110.77deg, #D481FF 36.25%, #59478E 108.9%, rgba(229, 178, 255, 0.46) 108.9%, #59478E 108.9%);
+border-radius: 3px;
+
+
+/* LOGIN */
+
+position: absolute;
+width: 55px;
+height: 28px;
+left: 160px;
+top: 470px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 19px;
+line-height: 28px;
+
+color: #FFFFFF;
+
+
+
+/* Don’t have an account? */
+
+position: absolute;
+width: 156px;
+height: 22px;
+left: 78px;
+top: 768px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 22px;
+
+color: rgba(0, 0, 0, 0.25);
+
+
+
+/* Email address */
+
+position: absolute;
+width: 94px;
+height: 22px;
+left: 78px;
+top: 307px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 22px;
+
+color: rgba(0, 0, 0, 0.25);
+
+
+
+/* Password */
+
+position: absolute;
+width: 64px;
+height: 22px;
+left: 78px;
+top: 375px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 22px;
+
+color: rgba(0, 0, 0, 0.25);
+
+
+
+/* Sign Up */
+
+position: absolute;
+width: 52px;
+height: 22px;
+left: 237px;
+top: 768px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 22px;
+
+color: #E5B2FF;
+
