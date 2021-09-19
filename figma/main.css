@@ -1,0 +1,434 @@
+/* Main */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: #FFFFFF;
+
+
+/* MySpot Logo 2 */
+
+position: absolute;
+width: 260px;
+height: 195px;
+left: 49px;
+top: -22px;
+
+background: url(MySpot Logo.png);
+
+
+/* Welcome, Jared */
+
+position: absolute;
+width: 226px;
+height: 112px;
+left: 74px;
+top: 117px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 44px;
+
+color: #E5B2FF;
+
+
+
+/* Rectangle 6 */
+
+position: absolute;
+width: 328px;
+height: 84px;
+left: 24px;
+top: 683px;
+
+background: linear-gradient(294.79deg, #D481FF 15.48%, rgba(89, 71, 142, 0.69) 123.44%);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Rectangle 7 */
+
+position: absolute;
+width: 328px;
+height: 84px;
+left: 24px;
+top: 683px;
+
+background: linear-gradient(294.79deg, #D481FF 15.48%, rgba(89, 71, 142, 0.69) 123.44%);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Rectangle 8 */
+
+position: absolute;
+width: 328px;
+height: 84px;
+left: 24px;
+top: 683px;
+
+background: linear-gradient(294.79deg, #D481FF 15.48%, rgba(89, 71, 142, 0.69) 123.44%);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Line 1 */
+
+position: absolute;
+width: 382px;
+height: 0px;
+left: 0px;
+top: 164px;
+
+
+
+/* SEARCH PARKING */
+
+position: absolute;
+width: 213px;
+height: 32px;
+left: 85px;
+top: 708px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 25px;
+line-height: 37px;
+
+color: #FFFFFF;
+
+
+
+/* History (Past Week) */
+
+position: absolute;
+width: 205px;
+height: 43px;
+left: 44px;
+top: 179px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 20px;
+line-height: 30px;
+
+color: rgba(0, 0, 0, 0.25);
+
+
+
+/* Vector */
+
+position: absolute;
+left: 3.47%;
+right: 90.07%;
+top: 22.41%;
+bottom: 74.6%;
+
+background: rgba(0, 0, 0, 0.25);
+
+
+/* pioneer 1 */
+
+position: absolute;
+width: 152px;
+height: 88px;
+left: 13px;
+top: 261px;
+
+background: url(pioneer.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 5px;
+
+
+/* Vector */
+
+position: absolute;
+left: 48%;
+right: 46.67%;
+top: 36.7%;
+bottom: 60.84%;
+
+background: #E5B2FF;
+
+
+/* king 1 */
+
+position: absolute;
+width: 154px;
+height: 91px;
+left: 13px;
+top: 538px;
+
+background: url(king.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 5px;
+
+
+/* tyson 1 */
+
+position: absolute;
+width: 152px;
+height: 91px;
+left: 165px;
+top: 398px;
+
+background: url(tyson.png);
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+border-radius: 5px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 47.73%;
+right: 46.67%;
+top: 32.14%;
+bottom: 65.27%;
+
+background: #E5B2FF;
+
+
+/* Vector */
+
+position: absolute;
+left: 48%;
+right: 46.67%;
+top: 41.26%;
+bottom: 57.02%;
+
+background: #E5B2FF;
+
+
+/* 150 Pioneer Dr. Kitchener */
+
+position: absolute;
+width: 129px;
+height: 16px;
+left: 208px;
+top: 264px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 11px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* FREE */
+
+position: absolute;
+width: 26px;
+height: 16px;
+left: 208px;
+top: 334px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 11px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Sept. 16, 2021 6:31PM (EST) */
+
+position: absolute;
+width: 143px;
+height: 16px;
+left: 208px;
+top: 300px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 11px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 48%;
+right: 46.67%;
+top: 70.57%;
+bottom: 26.97%;
+
+background: #E5B2FF;
+
+
+/* Vector */
+
+position: absolute;
+left: 47.73%;
+right: 46.67%;
+top: 66.01%;
+bottom: 31.4%;
+
+background: #E5B2FF;
+
+
+/* Vector */
+
+position: absolute;
+left: 48%;
+right: 46.67%;
+top: 75.12%;
+bottom: 23.15%;
+
+background: #E5B2FF;
+
+
+/* 787 King St. W Kitchener */
+
+position: absolute;
+width: 125px;
+height: 16px;
+left: 208px;
+top: 539px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 11px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* $2.75 per hour */
+
+position: absolute;
+width: 73px;
+height: 16px;
+left: 208px;
+top: 609px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 11px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Sept. 13, 2021 8:39AM (EST) */
+
+position: absolute;
+width: 144px;
+height: 16px;
+left: 208px;
+top: 575px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 11px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 48%;
+right: 46.67%;
+top: 53.57%;
+bottom: 43.97%;
+
+background: #E5B2FF;
+
+
+/* Vector */
+
+position: absolute;
+left: 47.73%;
+right: 46.67%;
+top: 49.01%;
+bottom: 48.4%;
+
+background: #E5B2FF;
+
+
+/* Vector */
+
+position: absolute;
+left: 48%;
+right: 46.67%;
+top: 58.13%;
+bottom: 40.15%;
+
+background: #E5B2FF;
+
+
+/* 20 Tyson Dr. Kitchener */
+
+position: absolute;
+width: 115px;
+height: 16px;
+left: 208px;
+top: 401px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 11px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* FREE FOR USE WHILE AT FACILITY */
+
+position: absolute;
+width: 129px;
+height: 32px;
+left: 208px;
+top: 471px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 11px;
+line-height: 16px;
+
+color: #000000;
+
+
+
+/* Sept. 14, 2021 4:20PM (EST) */
+
+position: absolute;
+width: 143px;
+height: 16px;
+left: 208px;
+top: 437px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 11px;
+line-height: 16px;
+
+color: #000000;
+
+ 
