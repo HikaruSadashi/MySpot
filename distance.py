@@ -1,5 +1,3 @@
-
-
 import pandas as pd
 from math import sqrt
 from geopy.geocoders import Nominatim
@@ -12,12 +10,13 @@ LONG_DISTANCE = 85 #km
 distance_list = []
 
 def distance(location):
+  
   loc1 = geolocator.geocode(location)
   lat1 = loc1.latitude
   long1 = loc1.longitude
-  #distance_list = []
   dis = float(0)
   count = int(0)
+  
   for item in address_list:
     lat2 = df["LATTITUDE"][count]
     long2 = df["LONGITUDE"][count]
@@ -26,4 +25,4 @@ def distance(location):
     count += 1
   return distance_list
 
-#Function to find the distance
+#Function to find the distance between twi location using their latitude and longitude
