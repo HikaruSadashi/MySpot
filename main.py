@@ -1,4 +1,3 @@
-# import the dataset and pandas library
 import pandas as pd
 import distance
 df = pd.read_csv("final.csv")
@@ -6,7 +5,7 @@ class Destination (object):
   def __init__(self,location):
     self.loc = location
   def result(self):
-    df["DISTANCE"] = distance.distance(self.loc)
+    df["DISTANCE"] = distance.distance(self.loc) #creating the dataframe
     return df
   def occupied(self, lot):
     count = df.index[df["ADDRESS"]==lot]
