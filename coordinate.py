@@ -26,4 +26,5 @@ def export_long(addresses):
 df["LONGITUDE"] = export_long(address_list)
 print (df["LONGITUDE"])
 df.to_csv("Complete df.csv")
-  
+
+#This file is to add the latitude and longitude to the database
