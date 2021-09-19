@@ -1,0 +1,218 @@
+/* Sign Up */
+
+position: relative;
+width: 375px;
+height: 812px;
+
+background: linear-gradient(167.87deg, #E5B2FF 43.22%, #FFFFFF 99.55%);
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 340px;
+height: 48px;
+left: 18px;
+top: 429px;
+
+background: #F1F1F1;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Rectangle 1 */
+
+position: absolute;
+width: 340px;
+height: 48px;
+left: 18px;
+top: 358px;
+
+background: #F1F1F1;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Mail */
+
+position: absolute;
+left: 7.73%;
+right: 85.6%;
+top: 45.94%;
+bottom: 51.75%;
+
+background: #FFFFFF;
+
+
+/* jared@myspot.io */
+
+position: absolute;
+width: 111px;
+height: 22px;
+left: 79px;
+top: 370px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 340px;
+height: 48px;
+left: 18px;
+top: 280px;
+
+background: #F1F1F1;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+/* Jared Subject */
+
+position: absolute;
+width: 94px;
+height: 22px;
+left: 79px;
+top: 292px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* Key */
+
+position: absolute;
+left: 7.73%;
+right: 85.6%;
+top: 54.31%;
+bottom: 42.61%;
+
+background: #FFFFFF;
+
+
+/* ***************** */
+
+position: absolute;
+width: 146px;
+height: 22px;
+left: 79px;
+top: 442px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 7.73%;
+right: 85.6%;
+top: 35.84%;
+bottom: 61.08%;
+
+background: #FFFFFF;
+
+
+/* Sign Up */
+
+position: absolute;
+width: 206px;
+height: 89px;
+left: 85px;
+top: 123px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 60px;
+line-height: 89px;
+/* identical to box height */
+
+color: #59478E;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 340px;
+height: 45px;
+left: 18px;
+top: 528px;
+
+background: #59478E;
+border-radius: 3px;
+
+
+/* CREATE ACCOUNT */
+
+position: absolute;
+width: 166px;
+height: 28px;
+left: 105px;
+top: 537px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 19px;
+line-height: 28px;
+
+color: #FFFFFF;
+
+
+
+/* Already have an account? */
+
+position: absolute;
+width: 175px;
+height: 22px;
+left: 77px;
+top: 767px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 22px;
+
+color: rgba(0, 0, 0, 0.25);
+
+
+
+/* Log In */
+
+position: absolute;
+width: 42px;
+height: 22px;
+left: 255px;
+top: 767px;
+
+font-family: Tuffy;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+line-height: 22px;
+
+color: #59478E;
+
